@@ -2,6 +2,8 @@
 Gerador de Imagens — Veículos Novos — Caetano
 Interface para gerar 4 imagens de carros em diferentes ângulos.
 """
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import base64
 from pathlib import Path
 
