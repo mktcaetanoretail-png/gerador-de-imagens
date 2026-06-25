@@ -1,0 +1,5143 @@
+{
+  "models": [
+    {
+      "groupCode": "E08",
+      "groupName": "ID. POLO",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/E08/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "ES13NJC1",
+          "variantName": "F1RST",
+          "name": "ID. POLO F1RST 52kWh 211cv",
+          "defaultColor": "R1R1",
+          "defaultUpholstery": "ZA",
+          "colors": [
+            {
+              "code": "B4B4",
+              "name": "Branco Candy",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/color/B4B4.webp?P=ZA"
+            },
+            {
+              "code": "R1R1",
+              "name": "Amarelo Python",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/color/R1R1.webp?P=ZA"
+            },
+            {
+              "code": "7X7X",
+              "name": "Azul Celestial",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/color/7X7X.webp?P=ZA"
+            },
+            {
+              "code": "S7S7",
+              "name": "Cinza Magnetic",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/color/S7S7.webp?P=ZA"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/color/F0F0.webp?P=ZA"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/color/0E0E.webp?P=ZA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJ1",
+              "title": "Jantes em liga leve 17\" \"Edinburgh\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES13NJC1/rim/PJ1.webp?F=R1R1&P=ZA&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "ES14NJC1",
+          "variantName": "F1RST+",
+          "name": "ID. POLO F1RST+ 52kWh 211cv",
+          "defaultColor": "R1R1",
+          "defaultUpholstery": "XM",
+          "colors": [
+            {
+              "code": "B4B4",
+              "name": "Branco Candy",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/color/B4B4.webp?P=YQ"
+            },
+            {
+              "code": "R1R1",
+              "name": "Amarelo Python",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/color/R1R1.webp?P=XM"
+            },
+            {
+              "code": "7X7X",
+              "name": "Azul Celestial",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/color/7X7X.webp?P=YQ"
+            },
+            {
+              "code": "S7S7",
+              "name": "Cinza Magnetic",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/color/S7S7.webp?P=XM"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/color/F0F0.webp?P=XM"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/color/0E0E.webp?P=YQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJ2",
+              "title": "Jantes em liga leve 18\" \"Linz\", em Preto",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ES14NJC1/rim/PJ2.webp?F=R1R1&P=XM&M="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "A01",
+      "groupName": "POLO",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/A01/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "AE13AVA4",
+          "variantName": "URBAN",
+          "name": "POLO 1.0 TSI 95cv URBAN",
+          "defaultColor": "6U6U",
+          "defaultUpholstery": "EL",
+          "colors": [
+            {
+              "code": "6U6U",
+              "name": "Cinzento Ascot",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/6U6U.webp?P=EL"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 236.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/0Q0Q.webp?P=EL"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/0A0A.webp?P=EL"
+            },
+            {
+              "code": "5W5W",
+              "name": "Cinzento Smoke",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/5W5W.webp?P=EL"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/3Y3Y.webp?P=EL"
+            },
+            {
+              "code": "8E8E",
+              "name": "Prata Reflex",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/8E8E.webp?P=EL"
+            },
+            {
+              "code": "2T2T",
+              "name": "Preto Deep",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/2T2T.webp?P=EL"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 722.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/color/P8P8.webp?P=EL"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PI3",
+              "title": "Jantes de liga leve \"Essex\" 5.5J x 15",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/rim/PI3.webp?F=6U6U&P=EL&M="
+            },
+            {
+              "code": "PI7",
+              "title": "Jantes de liga leve \"Torsby\" 6.5J x 16",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE13AVA4/rim/PI7.webp?F=6U6U&P=EL&M=PI7@PWF"
+            }
+          ]
+        },
+        {
+          "modelCode": "AE15AVA4",
+          "variantName": "R-LINE",
+          "name": "POLO 1.0 TSI 95cv R-LINE",
+          "defaultColor": "6U6U",
+          "defaultUpholstery": "WS",
+          "colors": [
+            {
+              "code": "6U6U",
+              "name": "Cinzento Ascot",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/6U6U.webp?P=WS"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 236.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/0Q0Q.webp?P=WS"
+            },
+            {
+              "code": "6UA1",
+              "name": "Cinzento Ascot",
+              "price": 265.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/6UA1.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure",
+              "price": 503.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/0QA1.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/0A0A.webp?P=WS"
+            },
+            {
+              "code": "5W5W",
+              "name": "Cinzento Smoke",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/5W5W.webp?P=WS"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/3Y3Y.webp?P=WS"
+            },
+            {
+              "code": "8E8E",
+              "name": "Prata Reflex",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/8E8E.webp?P=WS"
+            },
+            {
+              "code": "2T2T",
+              "name": "Preto Deep",
+              "price": 564.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/2T2T.webp?P=WS"
+            },
+            {
+              "code": "0AA1",
+              "name": "Azul Reef",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/0AA1.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "5WA1",
+              "name": "Cinzento Smoke",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/5WA1.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "3YA1",
+              "name": "Cristal Ice Blue",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/3YA1.webp?P=WS"
+            },
+            {
+              "code": "8EA1",
+              "name": "Prata Reflex",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/8EA1.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 722.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/P8P8.webp?P=WS"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 978.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/color/P8A1.webp?M=PDR&P=WS"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C1W",
+              "title": "Jantes de liga leve 16\" \"Coventry\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/rim/C1W.webp?F=6U6U&P=WS&M="
+            },
+            {
+              "code": "PJE",
+              "title": "Jantes de liga leve 17\" \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AE15AVA4/rim/PJE.webp?F=6U6U&P=WS&M=PJE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "C07",
+      "groupName": "TAIGO",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/C07/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "CS13AVA6",
+          "variantName": "URBAN",
+          "name": "TAIGO 1.0 TSI 95cv URBAN",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "EL",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/0Q0Q.webp?P=EL"
+            },
+            {
+              "code": "6U6U",
+              "name": "Cinzento Ascot",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/6U6U.webp?P=EL"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/0A0A.webp?P=EL"
+            },
+            {
+              "code": "5W5W",
+              "name": "Cinzento Smoke",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/5W5W.webp?P=EL"
+            },
+            {
+              "code": "8E8E",
+              "name": "Prata Reflex",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/8E8E.webp?P=EL"
+            },
+            {
+              "code": "2T2T",
+              "name": "Preto Deep",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/2T2T.webp?P=EL"
+            },
+            {
+              "code": "W9W9",
+              "name": "Verde Visual",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/W9W9.webp?P=EL"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 160.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/color/P8P8.webp?P=EL"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJJ",
+              "title": "Jantes de liga leve 17\" \"Bangalore\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS13AVA6/rim/PJJ.webp?F=0Q0Q&P=EL&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "CS15BZA6",
+          "variantName": "R-LINE",
+          "name": "TAIGO 1.0 TSI 116cv DSG R-LINE",
+          "defaultColor": "6U6U",
+          "defaultUpholstery": "WS",
+          "colors": [
+            {
+              "code": "6U6U",
+              "name": "Cinzento Ascot",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/6U6U.webp?P=WS"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 238.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/0Q0Q.webp?P=WS"
+            },
+            {
+              "code": "6U2T",
+              "name": "Cinzento Ascot",
+              "price": 267.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/6U2T.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "0Q2T",
+              "name": "Branco Pure",
+              "price": 505.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/0Q2T.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 569.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/0A0A.webp?P=WS"
+            },
+            {
+              "code": "5W5W",
+              "name": "Cinzento Smoke",
+              "price": 569.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/5W5W.webp?P=WS"
+            },
+            {
+              "code": "8E8E",
+              "name": "Prata Reflex",
+              "price": 569.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/8E8E.webp?P=WS"
+            },
+            {
+              "code": "2T2T",
+              "name": "Preto Deep",
+              "price": 569.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/2T2T.webp?P=WS"
+            },
+            {
+              "code": "W9W9",
+              "name": "Verde Visual",
+              "price": 569.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/W9W9.webp?P=WS"
+            },
+            {
+              "code": "0A2T",
+              "name": "Azul Reef",
+              "price": 824.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/0A2T.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "5W2T",
+              "name": "Cinzento Smoke",
+              "price": 824.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/5W2T.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "8E2T",
+              "name": "Prata Reflex",
+              "price": 824.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/8E2T.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "W92T",
+              "name": "Verde Visual",
+              "price": 824.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/W92T.webp?M=PDR&P=WS"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 726.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/P8P8.webp?P=WS"
+            },
+            {
+              "code": "P82T",
+              "name": "Vermelho Kings",
+              "price": 982.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/color/P82T.webp?M=PDR&P=WS"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "61N",
+              "title": "Jantes em liga leve 17\" \"Coventry\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/rim/61N.webp?F=6U6U&P=WS&M="
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve 18\" \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/rim/PJ7.webp?F=6U6U&P=WS&M=PJ7"
+            },
+            {
+              "code": "PJT",
+              "title": "Jantes em liga leve 18\" \"Misano\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CS15BZA6/rim/PJT.webp?F=6U6U&P=WS&M=PJT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "D02",
+      "groupName": "T-CROSS",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/D02/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "D313AVA5",
+          "variantName": "URBAN",
+          "name": "T-CROSS 1.0 TSI 95cv URBAN",
+          "defaultColor": "1C1C",
+          "defaultUpholstery": "QV",
+          "colors": [
+            {
+              "code": "1C1C",
+              "name": "Amarelo Grape",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/1C1C.webp?P=QV"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/0Q0Q.webp?P=QV"
+            },
+            {
+              "code": "6U6U",
+              "name": "Cinza Ascot",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/6U6U.webp?P=QV"
+            },
+            {
+              "code": "R9R9",
+              "name": "Azul Clear",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/R9R9.webp?P=QV"
+            },
+            {
+              "code": "5W5W",
+              "name": "Cinza Smoke",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/5W5W.webp?P=QV"
+            },
+            {
+              "code": "8E8E",
+              "name": "Prata Reflex",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/8E8E.webp?P=QV"
+            },
+            {
+              "code": "2T2T",
+              "name": "Preto Deep",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/2T2T.webp?P=QV"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 148.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/color/P8P8.webp?P=QV"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJ3",
+              "title": "Jantes em liga leve 17\" \"Bangalore\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/rim/PJ3.webp?F=1C1C&P=QV&M="
+            },
+            {
+              "code": "P05",
+              "title": "Jantes em liga leve 17\" \"Valencia\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D313AVA5/rim/P05.webp?F=1C1C&P=QV&M=P05"
+            }
+          ]
+        },
+        {
+          "modelCode": "D315BZA4",
+          "variantName": "R-LINE",
+          "name": "T-CROSS 1.0 TSI 116cv DSG R-LINE",
+          "defaultColor": "1C1C",
+          "defaultUpholstery": "WS",
+          "colors": [
+            {
+              "code": "1C1C",
+              "name": "Amarelo Grape",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/1C1C.webp?P=WS"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 220.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/0Q0Q.webp?P=WS"
+            },
+            {
+              "code": "6U6U",
+              "name": "Cinza Ascot",
+              "price": 220.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/6U6U.webp?P=WS"
+            },
+            {
+              "code": "R9R9",
+              "name": "Azul Clear",
+              "price": 525.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/R9R9.webp?P=WS"
+            },
+            {
+              "code": "5W5W",
+              "name": "Cinza Smoke",
+              "price": 525.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/5W5W.webp?P=WS"
+            },
+            {
+              "code": "8E8E",
+              "name": "Prata Reflex",
+              "price": 525.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/8E8E.webp?P=WS"
+            },
+            {
+              "code": "2T2T",
+              "name": "Preto Deep",
+              "price": 525.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/2T2T.webp?P=WS"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/color/P8P8.webp?P=WS"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "61N",
+              "title": "Jantes em liga leve 17\" \"Coventry\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/rim/61N.webp?F=1C1C&P=WS&M="
+            },
+            {
+              "code": "P05",
+              "title": "Jantes em liga leve 17\" \"Valencia\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/rim/P05.webp?F=1C1C&P=WS&M=P05"
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes em liga leve 18\" \"Misano\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/rim/PJ6.webp?F=1C1C&P=WS&M=PJ6"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve 18\" \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D315BZA4/rim/PJ7.webp?F=1C1C&P=WS&M=PJ7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "TR1",
+      "groupName": "T-ROC",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/TR1/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "D412MEA1",
+          "variantName": "TREND",
+          "name": "T-ROC 1.5 eTSI 116cv DSG TREND",
+          "defaultColor": "U3U3",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "U3U3",
+              "name": "Amarelo Canary",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/color/U3U3.webp?P=AP"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 401.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/color/0Q0Q.webp?P=AP"
+            },
+            {
+              "code": "7X7X",
+              "name": "Azul Celestial",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/color/7X7X.webp?P=AP"
+            },
+            {
+              "code": "A6A6",
+              "name": "Cinzento Wolf",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/color/A6A6.webp?P=AP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "H5H5",
+              "name": "Vermelho Flame",
+              "price": 866.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/color/H5H5.webp?P=AP"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C4X",
+              "title": "Jantes em liga leve 16\" \"Bilbao\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D412MEA1/rim/C4X.webp?F=U3U3&P=AP&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "D413MEA1",
+          "variantName": "LIFE",
+          "name": "T-ROC 1.5 eTSI 116cv DSG LIFE",
+          "defaultColor": "U3U3",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "U3U3",
+              "name": "Amarelo Canary",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/U3U3.webp?P=AP"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 401.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/0Q0Q.webp?P=AP"
+            },
+            {
+              "code": "U3A1",
+              "name": "Amarelo Canary/Preto",
+              "price": 465.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/U3A1.webp?P=AP"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure/Preto",
+              "price": 841.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/0QA1.webp?P=AP"
+            },
+            {
+              "code": "7X7X",
+              "name": "Azul Celestial",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/7X7X.webp?P=AP"
+            },
+            {
+              "code": "A6A6",
+              "name": "Cinzento Wolf",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/A6A6.webp?P=AP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "H5H5",
+              "name": "Vermelho Flame",
+              "price": 866.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/H5H5.webp?P=AP"
+            },
+            {
+              "code": "7XA1",
+              "name": "Azul Celestial/Preto",
+              "price": 1183.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/7XA1.webp?P=AP"
+            },
+            {
+              "code": "A6A1",
+              "name": "Cinzento Wolf/Preto",
+              "price": 1183.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/A6A1.webp?P=AP"
+            },
+            {
+              "code": "H5A1",
+              "name": "Vermelho Flame/Preto",
+              "price": 1317.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/color/H5A1.webp?P=AP"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJB",
+              "title": "Jantes em liga leve 17\" \"Lima\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/rim/PJB.webp?F=U3U3&P=AP&M="
+            },
+            {
+              "code": "PJC",
+              "title": "Jantes em liga leve 18\" \"Torino\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D413MEA1/rim/PJC.webp?F=U3U3&P=AP&M=PJC"
+            }
+          ]
+        },
+        {
+          "modelCode": "D414MEA1",
+          "variantName": "STYLE",
+          "name": "T-ROC 1.5 eTSI 116cv DSG STYLE",
+          "defaultColor": "U3U3",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "U3U3",
+              "name": "Amarelo Canary",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/U3U3.webp?P=AP"
+            },
+            {
+              "code": "U3A1",
+              "name": "Amarelo Canary/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/U3A1.webp?P=AP"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 401.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/0Q0Q.webp?P=AQ"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure/Preto",
+              "price": 401.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/0QA1.webp?P=AQ"
+            },
+            {
+              "code": "7X7X",
+              "name": "Azul Celestial",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/7X7X.webp?P=AQ"
+            },
+            {
+              "code": "7XA1",
+              "name": "Azul Celestial/Preto",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/7XA1.webp?P=AQ"
+            },
+            {
+              "code": "A6A6",
+              "name": "Cinzento Wolf",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/A6A6.webp?P=AQ"
+            },
+            {
+              "code": "A6A1",
+              "name": "Cinzento Wolf/Preto",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/A6A1.webp?P=AQ"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "H5H5",
+              "name": "Vermelho Flame",
+              "price": 866.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/H5H5.webp?P=AP"
+            },
+            {
+              "code": "H5A1",
+              "name": "Vermelho Flame/Preto",
+              "price": 866.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/color/H5A1.webp?P=AQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "U50",
+              "title": "Jantes em liga leve 17\" \"Lima\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/rim/U50.webp?F=U3U3&P=AP&M="
+            },
+            {
+              "code": "PJC",
+              "title": "Jantes em liga leve 18\" \"Torino\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/rim/PJC.webp?F=U3U3&P=AP&M=PJC"
+            },
+            {
+              "code": "PJE",
+              "title": "Jantes em liga leve 19\" \"York Aero\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/rim/PJE.webp?F=U3U3&P=AP&M=PJE"
+            },
+            {
+              "code": "PJF",
+              "title": "Jantes em liga leve 19\" \"York Aero\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/rim/PJF.webp?F=U3U3&P=AP&M=PJF"
+            },
+            {
+              "code": "PJH",
+              "title": "Jantes em liga leve 19\" \"Vancouver\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/rim/PJH.webp?F=U3U3&P=AP&M=PJH"
+            },
+            {
+              "code": "PJI",
+              "title": "Jantes em liga leve 20\" \"Calgary\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D414MEA1/rim/PJI.webp?F=U3U3&P=AP&M=PJI"
+            }
+          ]
+        },
+        {
+          "modelCode": "D415LEA1",
+          "variantName": "R-LINE",
+          "name": "T-ROC 1.5 eTSI 150cv DSG R-LINE",
+          "defaultColor": "U3U3",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "U3U3",
+              "name": "Amarelo Canary",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/U3U3.webp?P=AP"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 401.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/0Q0Q.webp?P=AP"
+            },
+            {
+              "code": "U3A1",
+              "name": "Amarelo Canary/Preto",
+              "price": 465.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/U3A1.webp?P=AP"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure/Preto",
+              "price": 841.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/0QA1.webp?P=AP"
+            },
+            {
+              "code": "7X7X",
+              "name": "Azul Celestial",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/7X7X.webp?P=AP"
+            },
+            {
+              "code": "A6A6",
+              "name": "Cinzento Wolf",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/A6A6.webp?P=AP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 731.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "H5H5",
+              "name": "Vermelho Flame",
+              "price": 866.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/H5H5.webp?P=AP"
+            },
+            {
+              "code": "7XA1",
+              "name": "Azul Celestial/Preto",
+              "price": 1183.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/7XA1.webp?P=AP"
+            },
+            {
+              "code": "A6A1",
+              "name": "Cinzento Wolf/Preto",
+              "price": 1183.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/A6A1.webp?P=AP"
+            },
+            {
+              "code": "H5A1",
+              "name": "Vermelho Flame/Preto",
+              "price": 1317.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/color/H5A1.webp?P=AP"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V69",
+              "title": "Jantes de liga leve 18\" \"Coventry\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/rim/V69.webp?F=U3U3&P=AP&M="
+            },
+            {
+              "code": "PJE",
+              "title": "Jantes em liga leve 19\" \"York Aero\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/rim/PJE.webp?F=U3U3&P=AP&M=PJE"
+            },
+            {
+              "code": "PJF",
+              "title": "Jantes em liga leve 19\" \"York Aero\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/rim/PJF.webp?F=U3U3&P=AP&M=PJF"
+            },
+            {
+              "code": "PJI",
+              "title": "Jantes em liga leve 20\" \"Calgary\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/rim/PJI.webp?F=U3U3&P=AP&M=PJI"
+            },
+            {
+              "code": "PJJ",
+              "title": "Jantes em liga leve 20\" \"Calgary\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/D415LEA1/rim/PJJ.webp?F=U3U3&P=AP&M=PJJ@WBS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "A05",
+      "groupName": "T-ROC CABRIO",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/A05/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "AC83LDA5",
+          "variantName": "STYLE",
+          "name": "T-ROC Cabrio 1.5 TSI 150cv STYLE",
+          "defaultColor": "B2PA",
+          "defaultUpholstery": "FI",
+          "colors": [
+            {
+              "code": "B2PA",
+              "name": "Azul Teal/ Capota Preta",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/B2PA.webp?P=FI"
+            },
+            {
+              "code": "0QPA",
+              "name": "Branco Pure/ Capota Preta",
+              "price": 248.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/0QPA.webp?M=WLC&P=UJ"
+            },
+            {
+              "code": "Z3PA",
+              "name": "Azul Petroleum/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/Z3PA.webp?M=WLC&P=UJ"
+            },
+            {
+              "code": "5ZPA",
+              "name": "Azul Ravenna/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/5ZPA.webp?P=FI"
+            },
+            {
+              "code": "5WPA",
+              "name": "Cinza Smoke/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/5WPA.webp?M=WLC&P=UJ"
+            },
+            {
+              "code": "6NPA",
+              "name": "Prata Ivory/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/6NPA.webp?P=FI"
+            },
+            {
+              "code": "2TPA",
+              "name": "Preto Deep/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/2TPA.webp?M=WLC&P=UJ"
+            },
+            {
+              "code": "P8PA",
+              "name": "Vermelho Kings/ Capota Preta",
+              "price": 802.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/color/P8PA.webp?M=7TL@WLC&P=UJ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJD",
+              "title": "Jantes em liga leve \"Joanesburg\" Preto",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/rim/PJD.webp?F=B2PA&P=FI&M="
+            },
+            {
+              "code": "PJN",
+              "title": "Jantes em liga leve \"Portimão\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC83LDA5/rim/PJN.webp?F=B2PA&P=FI&M=PJN"
+            }
+          ]
+        },
+        {
+          "modelCode": "AC85LEA5",
+          "variantName": "R-LINE",
+          "name": "T-ROC Cabrio 1.5 TSI 150cv DSG R-LINE",
+          "defaultColor": "B2PA",
+          "defaultUpholstery": "UM",
+          "colors": [
+            {
+              "code": "B2PA",
+              "name": "Azul Teal/ Capota Preta",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/B2PA.webp?P=UM"
+            },
+            {
+              "code": "0QPA",
+              "name": "Branco Pure/ Capota Preta",
+              "price": 248.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/0QPA.webp?M=WLD&P=UR"
+            },
+            {
+              "code": "Z3PA",
+              "name": "Azul Petroleum/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/Z3PA.webp?M=WLD&P=UR"
+            },
+            {
+              "code": "5ZPA",
+              "name": "Azul Ravenna/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/5ZPA.webp?P=UM"
+            },
+            {
+              "code": "5WPA",
+              "name": "Cinza Smoke/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/5WPA.webp?M=WLD&P=UR"
+            },
+            {
+              "code": "6NPA",
+              "name": "Prata Ivory/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/6NPA.webp?P=UM"
+            },
+            {
+              "code": "2TPA",
+              "name": "Preto Deep/ Capota Preta",
+              "price": 642.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/2TPA.webp?M=WLD&P=UR"
+            },
+            {
+              "code": "P8PA",
+              "name": "Vermelho Kings/ Capota Preta",
+              "price": 802.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/color/P8PA.webp?M=WLD&P=UR"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V12",
+              "title": "Jantes em liga leve \"Valencia\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/rim/V12.webp?F=B2PA&P=UM&M="
+            },
+            {
+              "code": "PJI",
+              "title": "Jantes em liga leve \"Misano\" 8J x 19",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/rim/PJI.webp?F=B2PA&P=UM&M=PJI"
+            },
+            {
+              "code": "PJJ",
+              "title": "Jantes em liga leve \"Misano\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/rim/PJJ.webp?F=B2PA&P=UM&M=PJJ"
+            },
+            {
+              "code": "PJP",
+              "title": "Jantes em liga leve \"Nevada\" 7J x 18",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/AC85LEA5/rim/PJP.webp?F=B2PA&P=UM&M=PJP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "D03",
+      "groupName": "GOLF",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/D03/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "DA12BXA4",
+          "variantName": "GOLF",
+          "name": "GOLF 1.5 TSI 116cv",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "BD",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/5K5K.webp?P=BD"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/0Q0Q.webp?P=BD"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/5R5R.webp?P=BD"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/B0B0.webp?P=BD"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/3Y3Y.webp?P=BD"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/F0F0.webp?P=BD"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/0E0E.webp?P=BD"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/P8P8.webp?P=BD"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1063.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/color/0R0R.webp?P=BD"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "CX9",
+              "title": "Jantes em aço 15\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/rim/CX9.webp?F=5K5K&P=BD&M="
+            },
+            {
+              "code": "PI0",
+              "title": "Jantes de liga leve 16\" \"Norfolk\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA12BXA4/rim/PI0.webp?F=5K5K&P=BD&M=PI0"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA13HYA2",
+          "variantName": "LIFE",
+          "name": "GOLF 1.5 TSI 204cv LIFE eHYBRID DSG",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "BD",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/5K5K.webp?P=BD"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/0Q0Q.webp?P=BD"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/5R5R.webp?P=BD"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/B0B0.webp?P=BD"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/3Y3Y.webp?P=BD"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/F0F0.webp?P=BD"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/0E0E.webp?P=BD"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/P8P8.webp?P=BD"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1063.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/color/0R0R.webp?P=BD"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PI1",
+              "title": "Jantes de liga leve 17\" \"Nottingham\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/rim/PI1.webp?F=5K5K&P=BD&M="
+            },
+            {
+              "code": "PI4",
+              "title": "Jantes liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/rim/PI4.webp?F=5K5K&P=BD&M=PI4"
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes em liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/rim/PJ4.webp?F=5K5K&P=BD&M=PJ4"
+            },
+            {
+              "code": "PJ5",
+              "title": "Jantes em liga leve \"Leeds\" 7.5j x 18",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA2/rim/PJ5.webp?F=5K5K&P=BD&M=PJ5"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA13BXA5",
+          "variantName": "URBAN",
+          "name": "GOLF 1.5 TSI 116cv Urban",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "BD",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/5K5K.webp?P=BD"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/0Q0Q.webp?P=BD"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/5R5R.webp?P=BD"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/B0B0.webp?P=BD"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/3Y3Y.webp?P=BD"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/F0F0.webp?P=BD"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/0E0E.webp?P=BD"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 149.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/P8P8.webp?P=BD"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 406.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/color/0R0R.webp?P=BD"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PI1",
+              "title": "Jantes de liga leve 17\" \"Nottingham\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/rim/PI1.webp?F=5K5K&P=BD&M="
+            },
+            {
+              "code": "PI4",
+              "title": "Jantes liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/rim/PI4.webp?F=5K5K&P=BD&M=PI4"
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes em liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/rim/PJ4.webp?F=5K5K&P=BD&M=PJ4"
+            },
+            {
+              "code": "PJ5",
+              "title": "Jantes em liga leve \"Leeds\" 7.5j x 18",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13BXA5/rim/PJ5.webp?F=5K5K&P=BD&M=PJ5"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA13HYA3",
+          "variantName": "SPORTLINE",
+          "name": "GOLF 1.5 TSI 204cv SPORTLINE eHYBRID DSG",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "BD",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/5K5K.webp?P=BD"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/0Q0Q.webp?P=BD"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/5R5R.webp?P=BD"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/B0B0.webp?P=BD"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/3Y3Y.webp?P=BD"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/F0F0.webp?P=BD"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/color/0E0E.webp?P=BD"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJ4",
+              "title": "Jantes em liga leve 18\" \"Catania\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA13HYA3/rim/PJ4.webp?F=5K5K&P=BD&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "DA15BMA4",
+          "variantName": "R-LINE",
+          "name": "GOLF 1.5 eTSI 116cv R-LINE DSG",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "IR",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/5K5K.webp?P=IR"
+            },
+            {
+              "code": "5KA1",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/5KA1.webp?P=IR"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/0Q0Q.webp?P=IR"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure",
+              "price": 652.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/0QA1.webp?P=IR"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/5R5R.webp?P=IR"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/B0B0.webp?P=IR"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/3Y3Y.webp?P=IR"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/F0F0.webp?P=IR"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/0E0E.webp?P=IR"
+            },
+            {
+              "code": "L9L9",
+              "name": "Azul Lápis",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/L9L9.webp?P=IR"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/P8P8.webp?P=IR"
+            },
+            {
+              "code": "5RA1",
+              "name": "Azul Anemone",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/5RA1.webp?P=IR"
+            },
+            {
+              "code": "B0A1",
+              "name": "Cinzento Dolphin",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/B0A1.webp?P=IR"
+            },
+            {
+              "code": "3YA1",
+              "name": "Cristal Ice Blue",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/3YA1.webp?P=IR"
+            },
+            {
+              "code": "F0A1",
+              "name": "Prata Oyster",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/F0A1.webp?P=IR"
+            },
+            {
+              "code": "L9A1",
+              "name": "Azul Lápis",
+              "price": 1154.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/L9A1.webp?P=IR"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 1154.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/P8A1.webp?P=IR"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1063.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/0R0R.webp?P=IR"
+            },
+            {
+              "code": "0RA1",
+              "name": "Branco Oryx",
+              "price": 1403.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/color/0RA1.webp?P=IR"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "CI7",
+              "title": "Jantes em liga leve \"Coventry\" 7,5j x 17",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/rim/CI7.webp?F=5K5K&P=IR&M="
+            },
+            {
+              "code": "PI7",
+              "title": "Jantes liga leve \"York\" 7.5j x 18",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/rim/PI7.webp?F=5K5K&P=IR&M=PI7"
+            },
+            {
+              "code": "PJ5",
+              "title": "Jantes de liga leve 18\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/rim/PJ5.webp?F=5K5K&P=IR&M=PJ5"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes de liga leve \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA15BMA4/rim/PJ7.webp?F=5K5K&P=IR&M=PJ7"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA16JYA4",
+          "variantName": "GTE",
+          "name": "GOLF 1.5 TSI 272cv PHEV GTE DSG",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "UP",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/5K5K.webp?P=UP"
+            },
+            {
+              "code": "5KA1",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/5KA1.webp?M=WL2&P=UN"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/0Q0Q.webp?P=UP"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure",
+              "price": 652.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/0QA1.webp?P=UP"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/5R5R.webp?P=UP"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/B0B0.webp?P=UP"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/3Y3Y.webp?M=WL2&P=UN"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/F0F0.webp?P=UP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/0E0E.webp?M=WL2&P=UN"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/P8P8.webp?P=UP"
+            },
+            {
+              "code": "5RA1",
+              "name": "Azul Anemone",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/5RA1.webp?P=UP"
+            },
+            {
+              "code": "B0A1",
+              "name": "Cinzento Dolphin",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/B0A1.webp?P=UP"
+            },
+            {
+              "code": "3YA1",
+              "name": "Cristal Ice Blue",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/3YA1.webp?M=WL2&P=UN"
+            },
+            {
+              "code": "F0A1",
+              "name": "Prata Oyster",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/F0A1.webp?P=UP"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 1154.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/P8A1.webp?P=UP"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1063.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/0R0R.webp?M=WL2&P=UN"
+            },
+            {
+              "code": "0RA1",
+              "name": "Branco Oryx",
+              "price": 1403.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/color/0RA1.webp?M=WL2&P=UN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C4N",
+              "title": "Jantes em liga leve 17 \"Richmond\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/rim/C4N.webp?F=5K5K&P=UP&M="
+            },
+            {
+              "code": "PI4",
+              "title": "Jantes liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/rim/PI4.webp?F=5K5K&P=UP&M=PI4"
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes de liga leve 18\" \"Richmond\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA16JYA4/rim/PJ6.webp?F=5K5K&P=UP&M=PJ6"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA19ZZA2",
+          "variantName": "GTI",
+          "name": "GOLF 2.0 TSI 265cv GTI DSG",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "UG",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/5K5K.webp?P=UG"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/0Q0Q.webp?P=UG"
+            },
+            {
+              "code": "5KA1",
+              "name": "Cinzento Urano",
+              "price": 344.73,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/5KA1.webp?P=UG"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure",
+              "price": 652.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/0QA1.webp?P=UG"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/5R5R.webp?P=UG"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/B0B0.webp?P=UG"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/3Y3Y.webp?P=UG"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/F0F0.webp?P=UG"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/0E0E.webp?P=UG"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/P8P8.webp?P=UG"
+            },
+            {
+              "code": "5RA1",
+              "name": "Azul Anemone",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/5RA1.webp?P=UG"
+            },
+            {
+              "code": "B0A1",
+              "name": "Cinzento Dolphin",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/B0A1.webp?P=UG"
+            },
+            {
+              "code": "3YA1",
+              "name": "Cristal Ice Blue",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/3YA1.webp?P=UG"
+            },
+            {
+              "code": "F0A1",
+              "name": "Prata Oyster",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/F0A1.webp?P=UG"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 1154.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/P8A1.webp?P=UG"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1063.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/0R0R.webp?P=UG"
+            },
+            {
+              "code": "0RA1",
+              "name": "Branco Oryx",
+              "price": 1403.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/color/0RA1.webp?P=UG"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C4N",
+              "title": "Jantes em liga leve 17\" \"Richmond\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/rim/C4N.webp?F=5K5K&P=UG&M="
+            },
+            {
+              "code": "PI8",
+              "title": "Jantes de liga leve 19\" \"Estoril\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/rim/PI8.webp?F=5K5K&P=UG&M=PDE@PI8"
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes de liga leve 18\" \"Richmond\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/rim/PJ6.webp?F=5K5K&P=UG&M=PJ6"
+            },
+            {
+              "code": "PJ8",
+              "title": "Jantes em liga leve 19\" \"Queenstown\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/rim/PJ8.webp?F=5K5K&P=UG&M=PDE@PJ8"
+            },
+            {
+              "code": "PJD",
+              "title": "Jantes de  liga leve 19 \"Estoril\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19ZZA2/rim/PJD.webp?F=5K5K&P=UG&M=PDE@PJD"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA19GZA1",
+          "variantName": "GTI EDITION 50",
+          "name": "GOLF 2.0 TSI 325cv DSG GTI EDITION 50",
+          "defaultColor": "0QA1",
+          "defaultUpholstery": "65",
+          "colors": [
+            {
+              "code": "0QA1",
+              "name": "Branco Pure / Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/color/0QA1.webp?P=65"
+            },
+            {
+              "code": "G2A1",
+              "name": "Vermelho Tornado / Preto",
+              "price": 418.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/color/G2A1.webp?P=65"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 670.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/color/0E0E.webp?P=65"
+            },
+            {
+              "code": "X1A1",
+              "name": "Verde Dark Moss / Preto",
+              "price": 910.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/color/X1A1.webp?P=65"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C6H",
+              "title": "Jantes em liga leve 19\" \"Queenstown\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/C6H.webp?F=0QA1&P=65&M="
+            },
+            {
+              "code": "C7M",
+              "title": "Jantes em liga leve 19\" \"Warmenau\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/C7M.webp?F=0QA1&P=65&M=C7M@WPG"
+            },
+            {
+              "code": "PI8",
+              "title": "Jantes de liga leve 19\" \"Estoril\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/PI8.webp?F=0QA1&P=65&M=PI8"
+            },
+            {
+              "code": "PI9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/PI9.webp?F=0QA1&P=65&M=PI9"
+            },
+            {
+              "code": "PJ8",
+              "title": "Jantes em liga leve 19\" \"Queenstown\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/PJ8.webp?F=0QA1&P=65&M=PJ8"
+            },
+            {
+              "code": "PJ9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/PJ9.webp?F=0QA1&P=65&M=PJ9"
+            },
+            {
+              "code": "PJA",
+              "title": "Jantes em liga leve 19\" \"Queenstown\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/PJA.webp?F=0QA1&P=65&M=PJA@WPG"
+            },
+            {
+              "code": "PJD",
+              "title": "Jantes de  liga leve 19 \"Estoril\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19GZA1/rim/PJD.webp?F=0QA1&P=65&M=PJD"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA19VZA2",
+          "variantName": "GTI CLUBSPORT",
+          "name": "GOLF 2.0 TSI 300cv GTI CLUBSPORT DSG",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "UG",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/5K5K.webp?P=UG"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/0Q0Q.webp?P=UG"
+            },
+            {
+              "code": "5KA1",
+              "name": "Cinzento Urano",
+              "price": 344.73,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/5KA1.webp?P=UG"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure",
+              "price": 652.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/0QA1.webp?P=UG"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/5R5R.webp?P=UG"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/B0B0.webp?P=UG"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/3Y3Y.webp?P=UG"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/F0F0.webp?P=UG"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/0E0E.webp?P=UG"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/P8P8.webp?P=UG"
+            },
+            {
+              "code": "5RA1",
+              "name": "Azul Anemone",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/5RA1.webp?P=UG"
+            },
+            {
+              "code": "B0A1",
+              "name": "Cinzento Dolphin",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/B0A1.webp?P=UG"
+            },
+            {
+              "code": "3YA1",
+              "name": "Cristal Ice Blue",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/3YA1.webp?P=UG"
+            },
+            {
+              "code": "F0A1",
+              "name": "Prata Oyster",
+              "price": 1011.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/F0A1.webp?P=UG"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 1154.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/P8A1.webp?P=UG"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1063.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/0R0R.webp?P=UG"
+            },
+            {
+              "code": "0RA1",
+              "name": "Branco Oryx",
+              "price": 1403.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/color/0RA1.webp?P=UG"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C0Z",
+              "title": "Jantes em liga leve 18\" \"Richmond\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/rim/C0Z.webp?F=5K5K&P=UG&M="
+            },
+            {
+              "code": "PI8",
+              "title": "Jantes de liga leve 19\" \"Estoril\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/rim/PI8.webp?F=5K5K&P=UG&M=PI8"
+            },
+            {
+              "code": "PI9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/rim/PI9.webp?F=5K5K&P=UG&M=PI9"
+            },
+            {
+              "code": "PJ8",
+              "title": "Jantes em liga leve 19\" \"Queenstown\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/rim/PJ8.webp?F=5K5K&P=UG&M=PJ8"
+            },
+            {
+              "code": "PJ9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/rim/PJ9.webp?F=5K5K&P=UG&M=PJ9"
+            },
+            {
+              "code": "PJD",
+              "title": "Jantes de  liga leve 19 \"Estoril\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA19VZA2/rim/PJD.webp?F=5K5K&P=UG&M=PJD"
+            }
+          ]
+        },
+        {
+          "modelCode": "DA1RPTA2",
+          "variantName": "R",
+          "name": "GOLF 2.0 TSI 333cv R DSG",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "OB",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/color/0Q0Q.webp?P=OB"
+            },
+            {
+              "code": "0QA1",
+              "name": "Branco Pure",
+              "price": 652.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/color/0QA1.webp?P=OB"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/color/B0B0.webp?P=OB"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/color/0E0E.webp?P=OB"
+            },
+            {
+              "code": "L9L9",
+              "name": "Azul Lápis",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/color/L9L9.webp?P=OB"
+            },
+            {
+              "code": "L9A1",
+              "name": "Azul Lápis",
+              "price": 1154.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/color/L9A1.webp?P=OB"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "CB0",
+              "title": "Jantes em liga leve 18\" \"Jerez\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/rim/CB0.webp?F=0Q0Q&P=OB&M="
+            },
+            {
+              "code": "PI8",
+              "title": "Jantes de liga leve 19\" \"Estoril\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/rim/PI8.webp?F=0Q0Q&P=OB&M=PI8"
+            },
+            {
+              "code": "PI9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/rim/PI9.webp?F=0Q0Q&P=OB&M=PI9"
+            },
+            {
+              "code": "PJ9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/rim/PJ9.webp?F=0Q0Q&P=OB&M=PJ9"
+            },
+            {
+              "code": "PJD",
+              "title": "Jantes de  liga leve 19 \"Estoril\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DA1RPTA2/rim/PJD.webp?F=0Q0Q&P=OB&M=PJD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "D04",
+      "groupName": "GOLF VARIANT",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/D04/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "DB522XA3",
+          "variantName": "GOLF",
+          "name": "GOLF VARIANT 2.0 TDI 116cv",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "BD",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/5K5K.webp?P=BD"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/0Q0Q.webp?P=BD"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/5R5R.webp?P=BD"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/B0B0.webp?P=BD"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/3Y3Y.webp?P=BD"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/F0F0.webp?P=BD"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/0E0E.webp?P=BD"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/P8P8.webp?P=BD"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1062.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/color/0R0R.webp?P=BD"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C2F",
+              "title": "Jantes de liga leve 16\" \"Norfolk\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB522XA3/rim/C2F.webp?F=5K5K&P=BD&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "DB53BXA6",
+          "variantName": "URBAN",
+          "name": "GOLF VARIANT 1.5 TSI 116cv URBAN",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "BD",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/5K5K.webp?P=BD"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/0Q0Q.webp?P=BD"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/5R5R.webp?P=BD"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/B0B0.webp?P=BD"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/3Y3Y.webp?P=BD"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/F0F0.webp?P=BD"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/0E0E.webp?P=BD"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 149.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/P8P8.webp?P=BD"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 406.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/color/0R0R.webp?P=BD"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PI1",
+              "title": "Jantes liga leve 17\" \"Nottingham\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/rim/PI1.webp?F=5K5K&P=BD&M="
+            },
+            {
+              "code": "PI4",
+              "title": "Jantes liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/rim/PI4.webp?F=5K5K&P=BD&M=PI4"
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes em liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/rim/PJ4.webp?F=5K5K&P=BD&M=PJ4"
+            },
+            {
+              "code": "PJ5",
+              "title": "Jantes de liga leve 18\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB53BXA6/rim/PJ5.webp?F=5K5K&P=BD&M=PJ5"
+            }
+          ]
+        },
+        {
+          "modelCode": "DB55BMA3",
+          "variantName": "R-LINE",
+          "name": "GOLF VARIANT 1.5 eTSI 116cv DSG R-LINE",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "IR",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinzento Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/5K5K.webp?P=IR"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 321.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/0Q0Q.webp?P=IR"
+            },
+            {
+              "code": "5R5R",
+              "name": "Azul Anemone",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/5R5R.webp?P=IR"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/B0B0.webp?P=IR"
+            },
+            {
+              "code": "3Y3Y",
+              "name": "Cristal Ice Blue",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/3Y3Y.webp?P=IR"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/F0F0.webp?P=IR"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/0E0E.webp?P=IR"
+            },
+            {
+              "code": "L9L9",
+              "name": "Azul Lápis",
+              "price": 800.56,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/L9L9.webp?P=IR"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 814.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/P8P8.webp?P=IR"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1062.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/color/0R0R.webp?P=IR"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "CI7",
+              "title": "Jantes em liga leve 17\" \"Coventry\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/rim/CI7.webp?F=5K5K&P=IR&M="
+            },
+            {
+              "code": "PI7",
+              "title": "Jantes liga leve \"York\" 7.5j x 18",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/rim/PI7.webp?F=5K5K&P=IR&M=PI7"
+            },
+            {
+              "code": "PJ5",
+              "title": "Jantes de liga leve 18\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/rim/PJ5.webp?F=5K5K&P=IR&M=PJ5"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes de liga leve \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB55BMA3/rim/PJ7.webp?F=5K5K&P=IR&M=PJ7"
+            }
+          ]
+        },
+        {
+          "modelCode": "DB5RPTA2",
+          "variantName": "R",
+          "name": "GOLF VARIANT 2.0 TSI 333cv R DSG",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "OB",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/color/0Q0Q.webp?P=OB"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 669.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/color/0E0E.webp?P=OB"
+            },
+            {
+              "code": "L9L9",
+              "name": "Azul Lápis",
+              "price": 813.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/color/L9L9.webp?P=OB"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "CS7",
+              "title": "Jantes liga leve 19\" \"Estoril\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/rim/CS7.webp?F=0Q0Q&P=OB&M="
+            },
+            {
+              "code": "PI9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/rim/PI9.webp?F=0Q0Q&P=OB&M=PI9"
+            },
+            {
+              "code": "PJ9",
+              "title": "Jantes de liga leve 19\" \"Warmenau\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/rim/PJ9.webp?F=0Q0Q&P=OB&M=PJ9"
+            },
+            {
+              "code": "PJD",
+              "title": "Jantes de  liga leve 19 \"Estoril\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/DB5RPTA2/rim/PJD.webp?F=0Q0Q&P=OB&M=PJD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "C08",
+      "groupName": "PASSAT",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/C08/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "CJ52DZA5",
+          "variantName": "PASSAT",
+          "name": "PASSAT 1.5 eTSI 150cv DSG",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/0Q0Q.webp?P=AP"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/0A0A.webp?P=AP"
+            },
+            {
+              "code": "5X5X",
+              "name": "Cinzento Diabas",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/5X5X.webp?P=AP"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/F0F0.webp?P=AP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "U7U7",
+              "name": "Verde Mariposit",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/U7U7.webp?P=AP"
+            },
+            {
+              "code": "W0W0",
+              "name": "Vermelho Chilli Red",
+              "price": 729.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/color/W0W0.webp?P=AP"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C4M",
+              "title": "Jantes liga leve 16\" \"Bari\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/rim/C4M.webp?F=0Q0Q&P=AP&M="
+            },
+            {
+              "code": "PJB",
+              "title": "Jantes Liga Leve 17\" \"Bologna\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ52DZA5/rim/PJB.webp?F=0Q0Q&P=AP&M=PJB"
+            }
+          ]
+        },
+        {
+          "modelCode": "CJ53DZA5",
+          "variantName": "BUSINESS",
+          "name": "PASSAT 1.5 eTSI 150cv BUSINESS DSG",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/0Q0Q.webp?P=AP"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/0A0A.webp?M=WWL&P=LP"
+            },
+            {
+              "code": "5X5X",
+              "name": "Cinzento Diabas",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/5X5X.webp?P=AP"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/F0F0.webp?P=AP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "U7U7",
+              "name": "Verde Mariposit",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/U7U7.webp?M=WWL&P=LP"
+            },
+            {
+              "code": "W0W0",
+              "name": "Vermelho Chilli Red",
+              "price": 729.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/W0W0.webp?P=CB"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1236.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/color/0R0R.webp?P=AP"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJB",
+              "title": "Jantes em liga leve 17\" \"Bologna\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/rim/PJB.webp?F=0Q0Q&P=AP&M="
+            },
+            {
+              "code": "PJF",
+              "title": "Jantes em liga leve 18\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/rim/PJF.webp?F=0Q0Q&P=AP&M=PJF"
+            },
+            {
+              "code": "PJG",
+              "title": "Jantes em liga leve 18\" \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ53DZA5/rim/PJG.webp?F=0Q0Q&P=AP&M=PJG"
+            }
+          ]
+        },
+        {
+          "modelCode": "CJ54YYB4",
+          "variantName": "ELEGANCE",
+          "name": "PASSAT 1.5 TSI 204cv PHEV ELEGANCE DSG",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/0Q0Q.webp?P=AP"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/0A0A.webp?M=WPM&P=LV"
+            },
+            {
+              "code": "5X5X",
+              "name": "Cinzento Diabas",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/5X5X.webp?P=AP"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/F0F0.webp?P=AP"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "U7U7",
+              "name": "Verde Mariposit",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/U7U7.webp?M=WPM&P=LV"
+            },
+            {
+              "code": "W0W0",
+              "name": "Vermelho Chilli Red",
+              "price": 729.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/W0W0.webp?P=LN"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1236.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/color/0R0R.webp?P=AP"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "U69",
+              "title": "Jantes em liga leve 17\" \"Napoli\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/rim/U69.webp?F=0Q0Q&P=AP&M="
+            },
+            {
+              "code": "PJE",
+              "title": "Jantes em liga leve 18\" \"Napoli\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/rim/PJE.webp?F=0Q0Q&P=AP&M=PJE"
+            },
+            {
+              "code": "PJG",
+              "title": "Jantes em liga leve 18\" \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/rim/PJG.webp?F=0Q0Q&P=AP&M=PJG"
+            },
+            {
+              "code": "PJL",
+              "title": "Jantes em liga leve 19\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ54YYB4/rim/PJL.webp?F=0Q0Q&P=AP&M=PJL"
+            }
+          ]
+        },
+        {
+          "modelCode": "CJ55YYA1",
+          "variantName": "R-LINE",
+          "name": "PASSAT 1.5 TSI 204cv PHEV R-LINE DSG",
+          "defaultColor": "0Q0Q",
+          "defaultUpholstery": "ZN",
+          "colors": [
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0Q0Q.webp?P=ZN"
+            },
+            {
+              "code": "0Q0E",
+              "name": "Branco Pure com tejadilho preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0Q0E.webp?M=WLR&P=ZN"
+            },
+            {
+              "code": "0A0A",
+              "name": "Azul Reef",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0A0A.webp?P=ZN"
+            },
+            {
+              "code": "5X5X",
+              "name": "Cinzento Diabas",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/5X5X.webp?P=ZN"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/F0F0.webp?P=ZN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0E0E.webp?P=ZN"
+            },
+            {
+              "code": "U7U7",
+              "name": "Verde Mariposit",
+              "price": 728.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/U7U7.webp?P=ZN"
+            },
+            {
+              "code": "W0W0",
+              "name": "Vermelho Chilli Red",
+              "price": 729.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/W0W0.webp?P=ZN"
+            },
+            {
+              "code": "0A0E",
+              "name": "Azul Reef com tejadilho preto",
+              "price": 740.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0A0E.webp?M=WLR&P=ZN"
+            },
+            {
+              "code": "5X0E",
+              "name": "Cinzento Diabas com tejadilho preto",
+              "price": 740.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/5X0E.webp?M=WLR&P=ZN"
+            },
+            {
+              "code": "F00E",
+              "name": "Prata Oyster com tejadilho preto",
+              "price": 740.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/F00E.webp?M=WLR&P=ZN"
+            },
+            {
+              "code": "U70E",
+              "name": "Verde Mariposit com tejadilho preto",
+              "price": 740.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/U70E.webp?M=WLR&P=ZN"
+            },
+            {
+              "code": "W00E",
+              "name": "Vermelho Chilli Red com tejadilho preto",
+              "price": 740.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/W00E.webp?M=WLR&P=ZN"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 1236.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0R0R.webp?P=ZN"
+            },
+            {
+              "code": "0R0E",
+              "name": "Branco Oryx com tejadilho preto",
+              "price": 1258.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/color/0R0E.webp?M=WLR&P=ZN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "41I",
+              "title": "Jantes em liga leve 18\" \"Coventry\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/rim/41I.webp?F=0Q0Q&P=ZN&M="
+            },
+            {
+              "code": "PJG",
+              "title": "Jantes em liga leve 18\" \"York\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/rim/PJG.webp?F=0Q0Q&P=ZN&M=PJG"
+            },
+            {
+              "code": "PJL",
+              "title": "Jantes em liga leve 19\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/rim/PJL.webp?F=0Q0Q&P=ZN&M=PJL"
+            },
+            {
+              "code": "PJM",
+              "title": "Jantes em liga leve 18\" \"York\" em Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/rim/PJM.webp?F=0Q0Q&P=ZN&M=PJM"
+            },
+            {
+              "code": "PJN",
+              "title": "Jantes em liga leve 19\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CJ55YYA1/rim/PJN.webp?F=0Q0E&P=ZN&M=PJN@WLR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "TI1",
+      "groupName": "TIGUAN",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/TI1/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "CT1BAMA1",
+          "variantName": "TREND",
+          "name": "TIGUAN 1.5 eTSI 131cv DSG TREND",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "AO",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinza Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/5K5K.webp?P=AO"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 290.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/0Q0Q.webp?P=AO"
+            },
+            {
+              "code": "V2V2",
+              "name": "Azul Nighshade",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/V2V2.webp?P=AO"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinza Dolphin",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/B0B0.webp?P=AO"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/F0F0.webp?P=AO"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/0E0E.webp?P=AO"
+            },
+            {
+              "code": "D4D4",
+              "name": "Verde Cipressino",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/D4D4.webp?P=AO"
+            },
+            {
+              "code": "D3D3",
+              "name": "Vermelho Persimmon",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/color/D3D3.webp?P=AO"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V10",
+              "title": "Jantes em liga leve 17\" \"Bari\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1BAMA1/rim/V10.webp?F=5K5K&P=AO&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "CT1CAMA1",
+          "variantName": "URBAN",
+          "name": "TIGUAN 1.5 eTSI 131cv DSG URBAN",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "AO",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinza Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/5K5K.webp?P=AO"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/0Q0Q.webp?P=AO"
+            },
+            {
+              "code": "V2V2",
+              "name": "Azul Nighshade",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/V2V2.webp?P=AO"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinza Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/B0B0.webp?P=AO"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/F0F0.webp?P=AO"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/0E0E.webp?P=AO"
+            },
+            {
+              "code": "D4D4",
+              "name": "Verde Cipressino",
+              "price": 157.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/D4D4.webp?P=AO"
+            },
+            {
+              "code": "D3D3",
+              "name": "Vermelho Persimmon",
+              "price": 157.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/color/D3D3.webp?P=AO"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V11",
+              "title": "Jantes liga leve 17\" \"Venezia\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/rim/V11.webp?F=5K5K&P=AO&M="
+            },
+            {
+              "code": "PJN",
+              "title": "Jantes em liga leve 18\" \"Napoli\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/rim/PJN.webp?F=5K5K&P=AO&M=PJN"
+            },
+            {
+              "code": "PJP",
+              "title": "Jantes em liga leve 18\" \"Bologna\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/rim/PJP.webp?F=5K5K&P=AO&M=PJP"
+            },
+            {
+              "code": "PJQ",
+              "title": "Jantes em liga leve 19\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/rim/PJQ.webp?F=5K5K&P=AO&M=PJQ"
+            },
+            {
+              "code": "PJS",
+              "title": "Jantes em liga leve 20\" \"Cannes\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/rim/PJS.webp?F=5K5K&P=AO&M=PJS"
+            },
+            {
+              "code": "PJW",
+              "title": "Jantes em liga leve 17\" \"Zurich\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1CAMA1/rim/PJW.webp?F=5K5K&P=AO&M=PJW"
+            }
+          ]
+        },
+        {
+          "modelCode": "CT1DBMA1",
+          "variantName": "ELEGANCE",
+          "name": "TIGUAN 1.5 eTSI 150cv DSG ELEGANCE",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "AP",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinza Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/5K5K.webp?P=AQ"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 290.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/0Q0Q.webp?P=AQ"
+            },
+            {
+              "code": "V2V2",
+              "name": "Azul Nighshade",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/V2V2.webp?P=AQ"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinza Dolphin",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/B0B0.webp?P=AQ"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/F0F0.webp?P=AQ"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 668.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/0E0E.webp?P=AP"
+            },
+            {
+              "code": "D4D4",
+              "name": "Verde Cipressino",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/D4D4.webp?P=AQ"
+            },
+            {
+              "code": "D3D3",
+              "name": "Vermelho Persimmon",
+              "price": 820.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/color/D3D3.webp?P=AQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "45N",
+              "title": "Jantes em liga leve 18\" \"Napoli\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/rim/45N.webp?F=5K5K&P=AP&M="
+            },
+            {
+              "code": "PJP",
+              "title": "Jantes em liga leve 18\" \"Bologna\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/rim/PJP.webp?F=5K5K&P=AP&M=PJP"
+            },
+            {
+              "code": "PJQ",
+              "title": "Jantes em liga leve 19\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/rim/PJQ.webp?F=5K5K&P=AP&M=PJQ"
+            },
+            {
+              "code": "PJS",
+              "title": "Jantes em liga leve 20\" \"Cannes\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1DBMA1/rim/PJS.webp?F=5K5K&P=AP&M=PJS"
+            }
+          ]
+        },
+        {
+          "modelCode": "CT1EZYA1",
+          "variantName": "R-LINE",
+          "name": "TIGUAN 1.5 TSI 204cv PHEV DSG R-LINE",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "ZN",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinza Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/5K5K.webp?P=ZN"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/0Q0Q.webp?P=ZN"
+            },
+            {
+              "code": "V2V2",
+              "name": "Azul Nighshade",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/V2V2.webp?P=ZN"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinza Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/B0B0.webp?P=ZN"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/F0F0.webp?P=ZN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/0E0E.webp?P=ZN"
+            },
+            {
+              "code": "D4D4",
+              "name": "Verde Cipressino",
+              "price": 157.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/D4D4.webp?P=ZN"
+            },
+            {
+              "code": "D3D3",
+              "name": "Vermelho Persimmon",
+              "price": 157.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/color/D3D3.webp?P=ZN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "F14",
+              "title": "Jantes em liga leve 20\" \"York\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/rim/F14.webp?F=5K5K&P=ZN&M="
+            },
+            {
+              "code": "PJR",
+              "title": "Jantes em liga leve 20\" \"York\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/rim/PJR.webp?F=5K5K&P=ZN&M=PJR"
+            },
+            {
+              "code": "PJT",
+              "title": "Jantes em liga leve 20' \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/CT1EZYA1/rim/PJT.webp?F=5K5K&P=ZN&M=PJT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "T02",
+      "groupName": "TAYRON",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/T02/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "R41CBMA1",
+          "variantName": "URBAN",
+          "name": "TAYRON 1.5 eTSI 150cv DSG URBAN",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "AO",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinza Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/5K5K.webp?P=AO"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/0Q0Q.webp?P=AO"
+            },
+            {
+              "code": "V2V2",
+              "name": "Azul Nightshade",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/V2V2.webp?P=AO"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/B0B0.webp?P=AO"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/F0F0.webp?P=AO"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/0E0E.webp?P=AO"
+            },
+            {
+              "code": "Z6Z6",
+              "name": "Ultravioleta",
+              "price": 158.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/Z6Z6.webp?P=AO"
+            },
+            {
+              "code": "D4D4",
+              "name": "Verde Cipressino",
+              "price": 158.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/D4D4.webp?P=AO"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 441.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/color/0R0R.webp?P=AO"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "45N",
+              "title": "Jantes em liga leve 18\" \"Napoli\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/rim/45N.webp?F=5K5K&P=AO&M="
+            },
+            {
+              "code": "PJE",
+              "title": "Jantes em liga leve 18\" \"Bologna\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/rim/PJE.webp?F=5K5K&P=AO&M=PJE"
+            },
+            {
+              "code": "PJH",
+              "title": "Jantes em liga leve 19\" \"Catania\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/rim/PJH.webp?F=5K5K&P=AO&M=PJH"
+            },
+            {
+              "code": "PJJ",
+              "title": "Jantes em liga leve 20\" \"Cannes\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41CBMA1/rim/PJJ.webp?F=5K5K&P=AO&M=PJJ"
+            }
+          ]
+        },
+        {
+          "modelCode": "R41EZYA1",
+          "variantName": "R-LINE",
+          "name": "TAYRON 1.5 TSI 204cv PHEV DSG R-LINE",
+          "defaultColor": "5K5K",
+          "defaultUpholstery": "ZN",
+          "colors": [
+            {
+              "code": "5K5K",
+              "name": "Cinza Urano",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/5K5K.webp?P=ZN"
+            },
+            {
+              "code": "0Q0Q",
+              "name": "Branco Pure",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/0Q0Q.webp?P=ZN"
+            },
+            {
+              "code": "V2V2",
+              "name": "Azul Nightshade",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/V2V2.webp?P=ZN"
+            },
+            {
+              "code": "B0B0",
+              "name": "Cinzento Dolphin",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/B0B0.webp?P=ZN"
+            },
+            {
+              "code": "F0F0",
+              "name": "Prata Oyster",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/F0F0.webp?P=ZN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/0E0E.webp?P=ZN"
+            },
+            {
+              "code": "Z6Z6",
+              "name": "Ultravioleta",
+              "price": 158.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/Z6Z6.webp?P=ZN"
+            },
+            {
+              "code": "D4D4",
+              "name": "Verde Cipressino",
+              "price": 158.01,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/D4D4.webp?P=ZN"
+            },
+            {
+              "code": "0R0R",
+              "name": "Branco Oryx",
+              "price": 441.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/color/0R0R.webp?P=ZN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJM",
+              "title": "Jantes em liga leve 20\" \"York\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/rim/PJM.webp?F=5K5K&P=ZN&M="
+            },
+            {
+              "code": "PJI",
+              "title": "Jantes em liga leve 20\" \"York\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/rim/PJI.webp?F=5K5K&P=ZN&M=PJI"
+            },
+            {
+              "code": "PJK",
+              "title": "Jantes em liga leve 20\" \"Leeds\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/R41EZYA1/rim/PJK.webp?F=5K5K&P=ZN&M=PJK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "E04",
+      "groupName": "ID.3",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/E04/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "E122DDA4",
+          "variantName": "PURE URBAN",
+          "name": "ID.3 PURE URBAN 52kWh 170cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZR",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/C2A1.webp?P=ZR"
+            },
+            {
+              "code": "3KA1",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/3KA1.webp?P=ZR"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/2YA1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/1TA1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/0E0E.webp?P=ZR"
+            },
+            {
+              "code": "H0A1",
+              "name": "Verde Olivine",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/H0A1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/color/P8A1.webp?M=PBL&P=TN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJB",
+              "title": "Jantes em Liga Leve East Derry 18\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/rim/PJB.webp?F=C2A1&P=ZR&M="
+            },
+            {
+              "code": "PJK",
+              "title": "Jantes em Liga Leve 19\" \"Wellington\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/rim/PJK.webp?F=C2A1&P=ZR&M=PJK"
+            },
+            {
+              "code": "PJO",
+              "title": "Jantes em Liga Leve 20\" \"Trondheim\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E122DDA4/rim/PJO.webp?F=C2A1&P=ZR&M=PJO"
+            }
+          ]
+        },
+        {
+          "modelCode": "E123KKA3",
+          "variantName": "PRO URBAN",
+          "name": "ID.3 PRO URBAN 59kWh 204cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZR",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/C2A1.webp?P=ZR"
+            },
+            {
+              "code": "3KA1",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/3KA1.webp?P=ZR"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/2YA1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/1TA1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/0E0E.webp?P=ZR"
+            },
+            {
+              "code": "H0A1",
+              "name": "Verde Olivine",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/H0A1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/color/P8A1.webp?M=PBL&P=TN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJB",
+              "title": "Jantes em Liga Leve East Derry 18\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/rim/PJB.webp?F=C2A1&P=ZR&M="
+            },
+            {
+              "code": "PJK",
+              "title": "Jantes em Liga Leve 19\" \"Wellington\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/rim/PJK.webp?F=C2A1&P=ZR&M=PJK"
+            },
+            {
+              "code": "PJO",
+              "title": "Jantes em Liga Leve 20\" \"Trondheim\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E123KKA3/rim/PJO.webp?F=C2A1&P=ZR&M=PJO"
+            }
+          ]
+        },
+        {
+          "modelCode": "E124KPA1",
+          "variantName": "PRO S URBAN",
+          "name": "ID.3 PRO S URBAN 79kWh 204cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZR",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/C2A1.webp?P=ZR"
+            },
+            {
+              "code": "3KA1",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/3KA1.webp?P=ZR"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/2YA1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/1TA1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/0E0E.webp?P=ZR"
+            },
+            {
+              "code": "H0A1",
+              "name": "Verde Olivine",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/H0A1.webp?M=PBL&P=TN"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/color/P8A1.webp?M=PBL&P=TN"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "48P",
+              "title": "Jantes em Liga Leve 7.5J x 20\" \"Sanya\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E124KPA1/rim/48P.webp?F=C2A1&P=ZR&M="
+            }
+          ]
+        },
+        {
+          "modelCode": "E129RPA2",
+          "variantName": "GTX",
+          "name": "ID.3 GTX 79kWh 286cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZQ",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/color/C2A1.webp?P=ZQ"
+            },
+            {
+              "code": "2YA1",
+              "name": "Banco Glacier",
+              "price": 707.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/color/2YA1.webp?P=ZQ"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 707.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/color/1TA1.webp?P=ZQ"
+            },
+            {
+              "code": "0EA1",
+              "name": "Preto Grenadilla",
+              "price": 707.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/color/0EA1.webp?P=ZQ"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 1001.99,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/color/P8A1.webp?P=ZQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C9F",
+              "title": "Jantes em liga leve 20\" \"Skagen\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/rim/C9F.webp?F=C2A1&P=ZQ&M="
+            },
+            {
+              "code": "PJS",
+              "title": "Jantes de liga leve \"Skagen\" em Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129RPA2/rim/PJS.webp?F=C2A1&P=ZQ&M=PJS"
+            }
+          ]
+        },
+        {
+          "modelCode": "E129VPA2",
+          "variantName": "GTX PERFORMANCE",
+          "name": "ID.3 GTX PERFORMANCE 79kWh 326cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZQ",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/color/C2A1.webp?P=ZQ"
+            },
+            {
+              "code": "2YA1",
+              "name": "Banco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/color/2YA1.webp?P=ZQ"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/color/1TA1.webp?P=ZQ"
+            },
+            {
+              "code": "0EA1",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/color/0EA1.webp?P=ZQ"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 303.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/color/P8A1.webp?P=ZQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C9F",
+              "title": "Jantes em liga leve 20\" \"Skagen\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/rim/C9F.webp?F=C2A1&P=ZQ&M="
+            },
+            {
+              "code": "PJS",
+              "title": "Jantes de liga leve \"Skagen\" em Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E129VPA2/rim/PJS.webp?F=C2A1&P=ZQ&M=PJS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "E02",
+      "groupName": "ID.4",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/E02/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "E212JMA1",
+          "variantName": "PURE",
+          "name": "ID.4 PURE 58kWh 190cv",
+          "defaultColor": "C2C2",
+          "defaultUpholstery": "ZK",
+          "colors": [
+            {
+              "code": "C2C2",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/C2C2.webp?P=ZK"
+            },
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/C2A1.webp?M=WM1&P=ZK"
+            },
+            {
+              "code": "3K3K",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/3K3K.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "3KA1",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/3KA1.webp?M=WAK@WM1&P=LA"
+            },
+            {
+              "code": "2P2P",
+              "name": "Azul Dusk",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/2P2P.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2PA1",
+              "name": "Azul Dusk/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/2PA1.webp?M=WAK@WM1&P=LA"
+            },
+            {
+              "code": "2Y2Y",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/2Y2Y.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/2YA1.webp?M=WAK@WM1&P=LA"
+            },
+            {
+              "code": "1T1T",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/1T1T.webp?P=ZK"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/1TA1.webp?M=WAK@WM1&P=QT"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/0E0E.webp?P=ZK"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/P8P8.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings/Preto",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/color/P8A1.webp?M=WAK@WM1&P=LA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve de 19\" \"Hamar\" preto",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/rim/PJ7.webp?F=C2C2&P=ZK&M="
+            },
+            {
+              "code": "PJB",
+              "title": "Jantes de liga leve 19\" \"Hamar\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/rim/PJB.webp?F=C2C2&P=ZK&M=PJB"
+            },
+            {
+              "code": "PJU",
+              "title": "Jantes em liga leve 20\" \"Bergen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/rim/PJU.webp?F=C2C2&P=ZK&M=PJU"
+            },
+            {
+              "code": "PJV",
+              "title": "Jantes em liga leve 20\" \"Bergen\" preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E212JMA1/rim/PJV.webp?F=3KA1&P=ZK&M=PJV@WBT"
+            }
+          ]
+        },
+        {
+          "modelCode": "E213RPA1",
+          "variantName": "PRO",
+          "name": "ID.4 PRO 79kWh 286cv",
+          "defaultColor": "C2C2",
+          "defaultUpholstery": "ZK",
+          "colors": [
+            {
+              "code": "C2C2",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/C2C2.webp?P=ZK"
+            },
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/C2A1.webp?M=WM1&P=ZK"
+            },
+            {
+              "code": "3K3K",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/3K3K.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "3KA1",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/3KA1.webp?M=WAK@WM1&P=LA"
+            },
+            {
+              "code": "2P2P",
+              "name": "Azul Dusk",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/2P2P.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2PA1",
+              "name": "Azul Dusk/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/2PA1.webp?M=WAK@WM1&P=LA"
+            },
+            {
+              "code": "2Y2Y",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/2Y2Y.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/2YA1.webp?M=WAK@WM1&P=LA"
+            },
+            {
+              "code": "1T1T",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/1T1T.webp?P=ZK"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/1TA1.webp?M=WAK@WM1&P=QT"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Myth",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/0E0E.webp?P=ZK"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/P8P8.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings/Preto",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/color/P8A1.webp?M=WAK@WM1&P=LA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PJ8",
+              "title": "Jantes em liga leve de 19\" \"Hamar\" preto",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/rim/PJ8.webp?F=C2C2&P=ZK&M="
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes de liga Leve 21\" \"Narvik\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/rim/PJ4.webp?F=C2C2&P=ZK&M=PJ4"
+            },
+            {
+              "code": "PJW",
+              "title": "Jantes em liga leve 20\" \"Bergen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/rim/PJW.webp?F=C2C2&P=ZK&M=PJW"
+            },
+            {
+              "code": "PJY",
+              "title": "Jantes de liga leve 20\" \"Drammen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPA1/rim/PJY.webp?F=C2C2&P=ZK&M=PJY"
+            }
+          ]
+        },
+        {
+          "modelCode": "E213RPB1",
+          "variantName": "PRO BLACK STYLE",
+          "name": "ID.4 PRO BLACK STYLE 79kWh 286cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZK",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/C2A1.webp?P=ZK"
+            },
+            {
+              "code": "3KA1",
+              "name": "Azul Costa",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/3KA1.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2PA1",
+              "name": "Azul Dusk/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/2PA1.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/2YA1.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/1TA1.webp?M=WAK&P=QT"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/0E0E.webp?P=ZK"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings/Preto",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/color/P8A1.webp?M=WAK&P=LA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C1I",
+              "title": "Jantes em liga leve de 19\" \"Bergen\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/rim/C1I.webp?F=C2A1&P=ZK&M="
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes de liga Leve 21\" \"Narvik\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/rim/PJ4.webp?F=C2A1&P=ZK&M=PJ4"
+            },
+            {
+              "code": "PJW",
+              "title": "Jantes em liga leve 20\" \"Bergen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/rim/PJW.webp?F=C2A1&P=ZK&M=PJW"
+            },
+            {
+              "code": "PJY",
+              "title": "Jantes de liga leve 20\" \"Drammen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E213RPB1/rim/PJY.webp?F=C2A1&P=ZK&M=PJY"
+            }
+          ]
+        },
+        {
+          "modelCode": "E219VNA4",
+          "variantName": "GTX",
+          "name": "ID.4 GTX 77kWh 340cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "UG",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/color/C2A1.webp?P=UG"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/color/2YA1.webp?P=UG"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/color/1TA1.webp?P=UG"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/color/0E0E.webp?P=UG"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings/Preto",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/color/P8A1.webp?P=UG"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "55K",
+              "title": "Jantes de liga Leve 20\" \"Ystad\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/rim/55K.webp?F=C2A1&P=UG&M="
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes de liga Leve 21\" \"Narvik\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/rim/PJ4.webp?F=C2A1&P=UG&M=PJ4"
+            },
+            {
+              "code": "PJ9",
+              "title": "Jantes de liga Leve 21\" \"Narvik\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E219VNA4/rim/PJ9.webp?F=C2A1&P=UG&M=PJ9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "E03",
+      "groupName": "ID.5",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/E03/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "E393RPA1",
+          "variantName": "PRO",
+          "name": "ID.5 PRO 79kWh 286cv",
+          "defaultColor": "C2C2",
+          "defaultUpholstery": "ZK",
+          "colors": [
+            {
+              "code": "C2C2",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/C2C2.webp?P=ZK"
+            },
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/C2A1.webp?M=WAK@WBT&P=LA"
+            },
+            {
+              "code": "2P2P",
+              "name": "Azul Dusk",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/2P2P.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "2PA1",
+              "name": "Azul Dusk",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/2PA1.webp?M=WBT&P=ZK"
+            },
+            {
+              "code": "2Y2Y",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/2Y2Y.webp?P=ZK"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/2YA1.webp?M=WBT&P=ZK"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/0E0E.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "P8P8",
+              "name": "Vermelho Kings",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/P8P8.webp?P=ZK"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/color/P8A1.webp?M=WBT&P=ZK"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "U60",
+              "title": "Jantes em liga leve de 19\" \"Hamar\" preto",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/rim/U60.webp?F=C2C2&P=ZK&M="
+            },
+            {
+              "code": "PJ3",
+              "title": "Jantes de liga leve 20\" DRAMMEN",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/rim/PJ3.webp?F=C2C2&P=ZK&M=PJ3"
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes de liga Leve 21\" \"Narvik\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/rim/PJ4.webp?F=C2C2&P=ZK&M=PJ4"
+            },
+            {
+              "code": "PJW",
+              "title": "Jantes em liga leve 20\" \"Bergen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPA1/rim/PJW.webp?F=C2C2&P=ZK&M=PJW"
+            }
+          ]
+        },
+        {
+          "modelCode": "E393RPB1",
+          "variantName": "PRO BLACK STYLE",
+          "name": "ID.5 PRO BLACK STYLE 79kWh 286cv",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZK",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/color/C2A1.webp?P=ZK"
+            },
+            {
+              "code": "2PA1",
+              "name": "Azul Dusk",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/color/2PA1.webp?M=WAK&P=QT"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/color/2YA1.webp?M=WAK&P=LA"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/color/0E0E.webp?P=ZK"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelho Kings",
+              "price": 169.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/color/P8A1.webp?M=WAK&P=LA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "C1I",
+              "title": "Jantes em liga leve de 19\" \"Bergen\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/rim/C1I.webp?F=C2A1&P=ZK&M="
+            },
+            {
+              "code": "PJ3",
+              "title": "Jantes de liga leve 20\" DRAMMEN",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/rim/PJ3.webp?F=C2A1&P=ZK&M=PJ3"
+            },
+            {
+              "code": "PJ4",
+              "title": "Jantes de liga Leve 21\" \"Narvik\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/rim/PJ4.webp?F=C2A1&P=ZK&M=PJ4"
+            },
+            {
+              "code": "PJW",
+              "title": "Jantes em liga leve 20\" \"Bergen\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/E393RPB1/rim/PJW.webp?F=C2A1&P=ZK&M=PJW"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "E06",
+      "groupName": "ID.7 TOURER",
+      "pictureUrl": "https://cdn.nwi-ms.com/media/pt/V/mg/E06/model/overview.webp?F=&P=&M=&size=L&prefer=vivid",
+      "variants": [
+        {
+          "modelCode": "ED52EHA1",
+          "variantName": "PURE URBAN",
+          "name": "ID.7 TOURER PURE URBAN 59kWh 204cv",
+          "defaultColor": "C2C2",
+          "defaultUpholstery": "ZN",
+          "colors": [
+            {
+              "code": "C2C2",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/C2C2.webp?P=ZN"
+            },
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/C2A1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "5Y5Y",
+              "name": "Azul Stonewash",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/5Y5Y.webp?M=PBF&P=AK"
+            },
+            {
+              "code": "5YA1",
+              "name": "Azul Stonewash/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/5YA1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "2Y2Y",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/2Y2Y.webp?M=PBF&P=AK"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/2YA1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "1T1T",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/1T1T.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/1TA1.webp?M=WBT&P=ZN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/0E0E.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "8H8H",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/8H8H.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "8HA1",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/color/8HA1.webp?M=PBF@WBT&P=ZO"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V95",
+              "title": "Jantes em liga leve 19\" \"HUDSON\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/rim/V95.webp?F=C2C2&P=ZN&M="
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes em liga Leve 21\" \"Mataro\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/rim/PJ6.webp?F=C2C2&P=ZN&M=PJ6"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve 20\" \"MONTREAL\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED52EHA1/rim/PJ7.webp?F=C2C2&P=ZN&M=PJ7"
+            }
+          ]
+        },
+        {
+          "modelCode": "ED53QKA4",
+          "variantName": "PRO URBAN",
+          "name": "ID.7 TOURER PRO URBAN 77kWh 286cv",
+          "defaultColor": "C2C2",
+          "defaultUpholstery": "ZN",
+          "colors": [
+            {
+              "code": "C2C2",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/C2C2.webp?P=ZN"
+            },
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/C2A1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "5Y5Y",
+              "name": "Azul Stonewash",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/5Y5Y.webp?M=PBF&P=AK"
+            },
+            {
+              "code": "5YA1",
+              "name": "Azul Stonewash/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/5YA1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "2Y2Y",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/2Y2Y.webp?M=PBF&P=AK"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/2YA1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "1T1T",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/1T1T.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/1TA1.webp?M=WBT&P=ZN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/0E0E.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "8H8H",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/8H8H.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "8HA1",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/color/8HA1.webp?M=PBF@WBT&P=ZO"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V95",
+              "title": "Jantes em liga leve 19\" \"HUDSON\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/rim/V95.webp?F=C2C2&P=ZN&M="
+            },
+            {
+              "code": "PI3",
+              "title": "Jantes em liga leve 20\" \"Trondheim\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/rim/PI3.webp?F=C2C2&P=ZN&M=PI3"
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes em liga Leve 21\" \"Mataro\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/rim/PJ6.webp?F=C2C2&P=ZN&M=PJ6"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve 20\" \"MONTREAL\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED53QKA4/rim/PJ7.webp?F=C2C2&P=ZN&M=PJ7"
+            }
+          ]
+        },
+        {
+          "modelCode": "ED54QMA3",
+          "variantName": "PRO S URBAN",
+          "name": "ID.7 TOURER PRO S URBAN 86kWh 286CV",
+          "defaultColor": "C2C2",
+          "defaultUpholstery": "ZN",
+          "colors": [
+            {
+              "code": "C2C2",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/C2C2.webp?P=ZN"
+            },
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/C2A1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "5Y5Y",
+              "name": "Azul Stonewash",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/5Y5Y.webp?M=PBF&P=AK"
+            },
+            {
+              "code": "5YA1",
+              "name": "Azul Stonewash/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/5YA1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "2Y2Y",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/2Y2Y.webp?M=PBF&P=AK"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/2YA1.webp?M=PBF@WBT&P=AK"
+            },
+            {
+              "code": "1T1T",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/1T1T.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/1TA1.webp?M=WBT&P=ZN"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/0E0E.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "8H8H",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/8H8H.webp?M=PBF&P=ZP"
+            },
+            {
+              "code": "8HA1",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/color/8HA1.webp?M=PBF@WBT&P=ZO"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "V95",
+              "title": "Jantes em liga leve 19\" \"HUDSON\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/rim/V95.webp?F=C2C2&P=ZN&M="
+            },
+            {
+              "code": "PI3",
+              "title": "Jantes em liga leve 20\" \"Trondheim\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/rim/PI3.webp?F=C2C2&P=ZN&M=PI3"
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes em liga Leve 21\" \"Mataro\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/rim/PJ6.webp?F=C2C2&P=ZN&M=PJ6"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve 20\" \"MONTREAL\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED54QMA3/rim/PJ7.webp?F=C2C2&P=ZN&M=PJ7"
+            }
+          ]
+        },
+        {
+          "modelCode": "ED59PMA3",
+          "variantName": "GTX",
+          "name": "ID.7 TOURER GTX 86kWh 340CV",
+          "defaultColor": "C2A1",
+          "defaultUpholstery": "ZQ",
+          "colors": [
+            {
+              "code": "C2A1",
+              "name": "Cinzento Moonstone",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/C2A1.webp?P=ZQ"
+            },
+            {
+              "code": "5YA1",
+              "name": "Azul Stonewash/Preto",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/5YA1.webp?P=ZQ"
+            },
+            {
+              "code": "2YA1",
+              "name": "Branco Glacier",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/2YA1.webp?P=ZQ"
+            },
+            {
+              "code": "1TA1",
+              "name": "Prata Scale",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/1TA1.webp?P=ZQ"
+            },
+            {
+              "code": "0E0E",
+              "name": "Preto Grenadilla",
+              "price": 0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/0E0E.webp?P=ZQ"
+            },
+            {
+              "code": "8HA1",
+              "name": "Azul Aquamarine",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/8HA1.webp?P=ZQ"
+            },
+            {
+              "code": "P8A1",
+              "name": "Vermelhor Kings",
+              "price": 172.0,
+              "available": true,
+              "swatchUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/color/P8A1.webp?P=ZQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "CB3",
+              "title": "Jantes liga leve 20 \"Skagen\"",
+              "serie": true,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/rim/CB3.webp?F=C2A1&P=ZQ&M="
+            },
+            {
+              "code": "PI3",
+              "title": "Jantes em liga leve 20\" \"Trondheim\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/rim/PI3.webp?F=C2A1&P=ZQ&M=PI3"
+            },
+            {
+              "code": "PJ3",
+              "title": "Jantes em liga leve 20\" \"Skagen\" Preto",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/rim/PJ3.webp?F=C2A1&P=ZQ&M=PJ3"
+            },
+            {
+              "code": "PJ6",
+              "title": "Jantes em liga Leve 21\" \"Mataro\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/rim/PJ6.webp?F=C2A1&P=ZQ&M=PJ6"
+            },
+            {
+              "code": "PJ7",
+              "title": "Jantes em liga leve 20\" \"MONTREAL\"",
+              "serie": false,
+              "imageUrl": "https://cdn.nwi-ms.com/media/pt/V/mc/ED59PMA3/rim/PJ7.webp?F=C2A1&P=ZQ&M=PJ7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

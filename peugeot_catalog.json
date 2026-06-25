@@ -1,0 +1,1236 @@
+{
+  "models": [
+    {
+      "modelId": "208-5-portas",
+      "modelName": "208",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP2A5HJLKB02PH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "EDITION0",
+          "variantName": "Edition",
+          "lcdv16": "1PP2A5HJLKB05YH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP2A5PJLKB0A0H2",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP2A5TJHWB0A0H2",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "208-5-portas-ev",
+      "modelName": "e-208",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP2A5JESFB02PH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "EDITION0",
+          "variantName": "Edition",
+          "lcdv16": "1PP2A5JESFB05YH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP2A5QESFB0A0H2",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP2A5UZIFB0A0H2",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "2008-suv",
+      "modelName": "2008",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP1SYHJLKB02PH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "EDITION0",
+          "variantName": "Edition",
+          "lcdv16": "1PP1SYHJLKB05YH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP1SYPJLKB0A0H2",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP1SYTJHWB0A0H2",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "2008-suv-ev",
+      "modelName": "e-2008",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP1SYJZIFB02PH2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP1SYQZIFB0A0H2",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP1SYUZIFB0A0H2",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-5-portas",
+      "modelName": "Novo 308 5 Portas",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5A5LJHWB02PF2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP5A5PJHWB0A0F2",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP5A5TJHWB0A0F2",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-5-portas-ev",
+      "modelName": "e-308",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5A5METFB02PF2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP5A5QETFB0A0F2",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP5A5UETFB0A0F2",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-sw",
+      "modelName": "Novo 308 SW",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5C5LJHWB02PF2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP5C5PJHWB0A0F2",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP5C5TJHWB0A0F2",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-sw-ev",
+      "modelName": "e-308 SW",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5C5METFB02PF2",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP5C5QETFB0A0F2",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP5C5UETFB0A0F2",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-408-5-portas",
+      "modelName": "Novo 408",
+      "variants": [
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP6CBPJHWB0A0G0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP6CBTJHWB0A0G0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-408-5-portas-ev",
+      "modelName": "e-408",
+      "variants": [
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PP6CBQZJFB0A0G0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PP6CBUZJFB0A0G0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "3008-suv",
+      "modelName": "3008",
+      "variants": [
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PPDSYRJH7L0A0D2",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PPDSYTJH7L0A0D2",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "3008-suv-ev",
+      "modelName": "e-3008",
+      "variants": [
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PPDSYRFAFL0A0D2",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PPDSYTFAFL0A0D2",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PPDSYTG1IL05ND2",
+          "trimCode": "0PX00RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "5008-suv",
+      "modelName": "5008",
+      "variants": [
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PPFSZRJH7L0A0D2",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PPFSZTJH7L0A0D2",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "5008-suv-ev",
+      "modelName": "e-5008",
+      "variants": [
+        {
+          "variantId": "ALLURE__",
+          "variantName": "Allure",
+          "lcdv16": "1PPFSZRFAFL0A0D2",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT______",
+          "variantName": "GT",
+          "lcdv16": "1PPFSZTFAFL0A0D2",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PPFSZTG1IL05ND2",
+          "trimCode": "0PX00RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
